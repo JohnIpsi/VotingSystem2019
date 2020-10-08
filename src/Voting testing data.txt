@@ -1,0 +1,11 @@
+Donald    Trump      3036 3236 3245
+Angela    Merkel     3379 3579 3570
+Alexis    Tsipras    302  502  512 
+Alexander Lukashenko 1926 2126 2116
+Nicolas   Maduro     1357 1557 57  
+END_NAMES
+Total                10000 11000 9500
+END_TOTAL_VOTES
+Voting intervals:  2019.05.05 2019.05.19 2019.06.02
+System start date: 2019.05.04
+END_DATES

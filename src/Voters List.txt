@@ -1,0 +1,18 @@
+ID: 1234 Sur: Ramirez Name: Daniel  Voted: True
+ID: 2341 Sur: Infante Name: Camilo  Voted: False
+ID: 3412 Sur: Sarmien Name: Camila  Voted: True
+ID: 4123 Sur: Granado Name: Felipe  Voted: True
+ID: 9468 Sur: Perez   Name: Carlos  Voted: False
+ID: 3167 Sur: Gomez   Name: Fernand Voted: False
+ID: 7615 Sur: Mujica  Name: Pepe    Voted: False
+ID: 8734 Sur: Franco  Name: Daniel  Voted: True
+ID: 6330 Sur: Paredes Name: Cristia Voted: False	
+ID: 9287 Sur: Parrado Name: Camilo  Voted: True
+ID: 1721 Sur: Ospina  Name: Santiag Voted: False
+ID: 1500 Sur: Ramirez Name: Carlos  Voted: True
+ID: 1178 Sur: Mendez  Name: Santiag Voted: True
+ID: 8369 Sur: Berna   Name: Oscar   Voted: False
+ID: 1195 Sur: Salazar Name: Henry   Voted: False
+ID: 5010 Sur: Santos  Name: Coronel Voted: True
+ID: 2030 Sur: Granado Name: Felipe  Voted: False
+END
